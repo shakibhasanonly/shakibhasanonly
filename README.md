@@ -1,4 +1,6 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ========================= -->
+<!--        BANNER             -->
+<!-- ========================= -->
 
 <p align="center">
   <img
@@ -8,53 +10,21 @@
   />
 </p>
 
-<br>
-
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">Hi 👋, I'm Shakib Hasan</h1>
-
-<h3 align="center">
-  Full Stack Web Developer & Creative Designer
-</h3>
-
-<p align="center">
-  I design and build modern, functional, and user-focused digital experiences.
-</p>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Creative+Designer;React+Developer;JavaScript+%26+TypeScript+Developer;Building+Real-World+Projects"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Creative+Designer;JavaScript+%7C+TypeScript+%7C+React;Building+Modern+Web+Experiences"
     alt="Typing SVG"
   />
 </p>
 
-<br>
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-
 <p align="center">
+  <a href="https://github.com/shakibhasanonly">
+    <img src="https://img.shields.io/github/followers/shakibhasanonly?label=Followers&style=for-the-badge" />
+  </a>
 
-<a href="https://github.com/shakibhasanonly">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/shakibhasanonly">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.behance.net/shakibhasanonly">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
-</a>
-
-<a href="https://www.facebook.com/shakibhasanonly/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="mailto:mdshakibhasann50@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="https://github.com/shakibhasanonly">
+    <img src="https://img.shields.io/github/stars/shakibhasanonly?label=Stars&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -67,181 +37,112 @@
 
 I'm **Shakib Hasan**, a **Full Stack Web Developer & Creative Designer** focused on building modern web applications and meaningful digital experiences.
 
-My background in graphic design gives me a different perspective on development. I care about both **how a product works and how people experience it**.
+My background in design gives me a different perspective on development — I care about both **how a product works and how people experience it**.
 
-- 💻 Developing my Full Stack Web Development skills
-- ⚛️ Working with React and modern frontend technologies
-- 🟦 Learning and using JavaScript & TypeScript
-- 🚀 Building real-world projects to improve my development skills
-- 🎨 Experienced in Graphic Design and Visual Identity
-- 🤖 Interested in AI-assisted development
-- 🤝 Open to collaboration, freelance work and interesting projects
-
----
-
-# 🛠️ What I Do
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 💻 Web Development
-
-- Responsive Websites
-- React Applications
-- Modern Frontend Development
-- REST API Integration
-- JavaScript Development
-- TypeScript Development
-- Next.js Development
-
-</td>
-
-<td width="50%">
-
-### 🎨 Creative Design
-
-- Logo Design
-- Brand Identity
-- Social Media Design
-- Promotional Graphics
-- Product Design
-- Packaging Design
-- Visual Identity
-
-</td>
-
-</tr>
-</table>
+- 🚀 Currently developing my Full Stack Web Development skills
+- 🎨 Background in Graphic Design & Visual Identity
+- 💻 Working with JavaScript, TypeScript, React and modern web technologies
+- 🤖 Interested in AI-driven development and practical software engineering
+- 🛠️ Building real-world projects to strengthen my development skills
+- 🤝 Open to collaboration, opportunities and interesting projects
 
 ---
 
-# 🚀 Tech Stack
+# 🧠 What I Do
 
-### 🌐 Frontend
+- 🌐 Full Stack Web Development
+- ⚡ JavaScript & TypeScript
+- ⚛️ React & Modern Frontend Development
+- 🔌 REST APIs & Data Handling
+- 🖥️ Backend Development
+- 🗄️ Database Management
+- 🏗️ Real-World Project Architecture
+- 🎨 Graphic Design & Visual Identity
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-### 🖥️ Backend & Database
+### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase" />
 </p>
 
 ### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ### 🎨 Design Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-<img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/Full%20Stack-Development-FF6B35?style=for-the-badge">
-
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 ITQAN MART
+### 🛒 ITQAN MART
 
-A modern gadget e-commerce website built for **ITQAN MART**.
+An e-commerce gadget shop built for selling modern gadgets and electronic products.
 
-**Tech:** React / Modern Web Technologies
-
-🔗 **GitHub:**  
-[github.com/shakibhasanonly/itqanmart](https://github.com/shakibhasanonly/itqanmart)
-
-🌐 **Live Website:**  
-[itqanmart.vercel.app](https://itqanmart.vercel.app/)
+- 🔗 **GitHub:** [itqanmart](https://github.com/shakibhasanonly/itqanmart)
+- 🌐 **Live:** [itqanmart.vercel.app](https://itqanmart.vercel.app/)
 
 ---
 
-## 💻 Dev Stack
+### 💻 Dev Stack
 
-A modern React-based web project created to practice and demonstrate frontend development skills.
+A modern web development project built with React and modern frontend technologies.
 
-**Tech:** React / JavaScript / Tailwind CSS
-
-🔗 **GitHub:**  
-[github.com/shakibhasanonly/dev-stack](https://github.com/shakibhasanonly/dev-stack)
-
-🌐 **Live Website:**  
-[dev-stack-tan.vercel.app](https://dev-stack-tan.vercel.app/)
+- 🔗 **GitHub:** [dev-stack](https://github.com/shakibhasanonly/dev-stack)
+- 🌐 **Live:** [dev-stack-tan.vercel.app](https://dev-stack-tan.vercel.app/)
 
 ---
 
-## 🏋️ FitLog
+### 🏋️ FitLog
 
 A fitness and workout tracking application built with Next.js.
 
-**Tech:** Next.js / TypeScript / React
-
-🔗 **GitHub:**  
-[github.com/shakibhasanonly/fitlog](https://github.com/shakibhasanonly/fitlog)
-
-🌐 **Live Website:**  
-[fitlog-sigma-gules.vercel.app](https://fitlog-sigma-gules.vercel.app/)
+- 🔗 **GitHub:** [fitlog](https://github.com/shakibhasanonly/fitlog)
+- 🌐 **Live:** [fitlog-sigma-gules.vercel.app](https://fitlog-sigma-gules.vercel.app/)
 
 ---
 
-## 🎨 Minimo
+### 🎨 Minimo
 
-A responsive frontend website created as a web development practice project.
+A responsive website project focused on clean layout and modern UI design.
 
-**Tech:** HTML / CSS
-
-🔗 **GitHub:**  
-[github.com/shakibhasanonly/minimo](https://github.com/shakibhasanonly/minimo)
-
-🌐 **Live Website:**  
-[shakibhasanonly.github.io/minimo](https://shakibhasanonly.github.io/minimo/)
+- 🔗 **GitHub:** [minimo](https://github.com/shakibhasanonly/minimo)
+- 🌐 **Live:** [shakibhasanonly.github.io/minimo](https://shakibhasanonly.github.io/minimo/)
 
 ---
 
-## 🏫 E-School
+### 🎓 E-School
 
-A responsive educational website project.
+An educational website project built with responsive web design.
 
-**Tech:** HTML / CSS / Bootstrap
-
-🔗 **GitHub:**  
-[github.com/shakibhasanonly/E-School](https://github.com/shakibhasanonly/E-School)
-
-🌐 **Live Website:**  
-[shakibhasanonly.github.io/E-School](https://shakibhasanonly.github.io/E-School/)
+- 🔗 **GitHub:** [E-School](https://github.com/shakibhasanonly/E-School)
+- 🌐 **Live:** [shakibhasanonly.github.io/E-School](https://shakibhasanonly.github.io/E-School/)
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=shakibhasanonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Shakib Hasan GitHub Stats"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shakibhasanonly&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Shakib Hasan GitHub Stats"
+  />
 </p>
 
 ---
@@ -249,59 +150,23 @@ A responsive educational website project.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=shakibhasanonly&theme=tokyonight&hide_border=true"
-  alt="Shakib Hasan GitHub Streak"
-/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shakibhasanonly&theme=tokyo-night&hide_border=true"
-  alt="Shakib Hasan Contribution Graph"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=shakibhasanonly&theme=tokyonight&hide_border=true"
+    alt="Shakib Hasan GitHub Streak"
+  />
 </p>
 
 ---
 
 # 🎨 Graphic Design
 
-Before focusing on web development, I worked extensively in **Graphic Design and Visual Identity**.
+Alongside development, I have a background in **Graphic Design, Branding and Visual Identity**.
 
-My design experience includes:
-
-- 🎯 Logo Design
-- 🏷️ Brand Identity
-- 📱 Social Media Graphics
-- 📦 Packaging Design
-- 🖼️ Promotional Design
-- 🎨 Visual Identity
-
-### 🎨 Design Portfolio
-
-<p align="center">
-
-<a href="https://www.behance.net/shakibhasanonly">
-
-<img
-src="https://img.shields.io/badge/View%20My%20Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"
->
-
-</a>
-
-</p>
+I enjoy combining design and development to create digital experiences that are both **visually appealing and functional**.
 
 ---
 
-# 🌱 My Development Journey
+# 🛣️ Development Journey
 
 ```text
 Graphic Design
@@ -318,4 +183,4 @@ Next.js
       ↓
 Full Stack Development
       ↓
-Real-World Projects 🚀
+AI-Assisted Development
