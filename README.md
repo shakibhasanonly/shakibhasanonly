@@ -17,15 +17,9 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/shakibhasanonly">
-    <img src="https://img.shields.io/github/followers/shakibhasanonly?label=Followers&style=for-the-badge" />
-  </a>
 
-  <a href="https://github.com/shakibhasanonly">
-    <img src="https://img.shields.io/github/stars/shakibhasanonly?label=Stars&style=for-the-badge" />
-  </a>
-</p>
+
+  
 
 <p align="center">
   📍 Meherpur Sadar, Meherpur, Bangladesh
