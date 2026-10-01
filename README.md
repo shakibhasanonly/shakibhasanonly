@@ -1,6 +1,6 @@
-<!-- ====================================================== -->
-<!--                    SHAKIB HASAN                       -->
-<!-- ====================================================== -->
+<!-- ========================= -->
+<!--        BANNER             -->
+<!-- ========================= -->
 
 <p align="center">
   <img
@@ -10,30 +10,25 @@
   />
 </p>
 
-<h1 align="center">
-  👋 Hi, I'm Shakib Hasan
-</h1>
-
-<h3 align="center">
-  Full Stack Web Developer & Creative Designer
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Creative+Designer;JavaScript+%7C+TypeScript+%7C+React;Building+Modern+Web+Experiences"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
-  I design and build modern, functional, and user-focused digital experiences.
+  <a href="https://github.com/shakibhasanonly">
+    <img src="https://img.shields.io/github/followers/shakibhasanonly?label=Followers&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/shakibhasanonly">
+    <img src="https://img.shields.io/github/stars/shakibhasanonly?label=Stars&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
   📍 Meherpur Sadar, Meherpur, Bangladesh
-</p>
-
-<p align="center">
-  <a href="https://github.com/shakibhasanonly">
-    <img src="https://img.shields.io/github/followers/shakibhasanonly?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-
-  <a href="https://github.com/shakibhasanonly">
-    <img src="https://img.shields.io/github/stars/shakibhasanonly?label=Stars&style=for-the-badge" alt="GitHub Stars" />
-  </a>
 </p>
 
 ---
@@ -71,32 +66,32 @@ My background in design gives me a different perspective on development — I ca
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase" alt="Backend and Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase" />
 </p>
 
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ### 🎨 Design Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design Tools" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 ITQAN MART
+### 🛒 ITQAN MART
 
 An e-commerce gadget shop built for selling modern gadgets and electronic products.
 
@@ -105,7 +100,7 @@ An e-commerce gadget shop built for selling modern gadgets and electronic produc
 
 ---
 
-## 💻 Dev Stack
+### 💻 Dev Stack
 
 A modern web development project built with React and modern frontend technologies.
 
@@ -114,7 +109,7 @@ A modern web development project built with React and modern frontend technologi
 
 ---
 
-## 🏋️ FitLog
+### 🏋️ FitLog
 
 A fitness and workout tracking application built with Next.js.
 
@@ -123,7 +118,7 @@ A fitness and workout tracking application built with Next.js.
 
 ---
 
-## 🎨 Minimo
+### 🎨 Minimo
 
 A responsive website project focused on clean layout and modern UI design.
 
@@ -132,7 +127,7 @@ A responsive website project focused on clean layout and modern UI design.
 
 ---
 
-## 🎓 E-School
+### 🎓 E-School
 
 An educational website project built with responsive web design.
 
